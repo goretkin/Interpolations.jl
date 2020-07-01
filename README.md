@@ -30,6 +30,7 @@ Other interpolation packages for Julia include:
 - [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl)
 - [GridInterpolations.jl](https://github.com/sisl/GridInterpolations.jl)
 - [ApproXD.jl](https://github.com/floswald/ApproXD.jl)
+- [DataInterpolations.jl](https://github.com/PumasAI/DataInterpolations.jl)
 
 Some of these packages support methods that `Interpolations` does not,
 so if you can't find what you need here, check one of them or submit a
